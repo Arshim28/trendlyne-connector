@@ -1,0 +1,3914 @@
+[
+  {
+    "id": "ADANIPORTS",
+    "label": "Adani Ports & Special Economic Zone Ltd.(ADANIPORTS)",
+    "value": "ADANIPORTS",
+    "k": 27,
+    "slugname": "adani-ports-special-economic-zone-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "ADANIPORTS",
+    "UIcode": "ADANIPORTS",
+    "category": "Equity",
+    "currentPrice": 1404.7,
+    "day_change": -3.5,
+    "day_changeP": -0.25,
+    "day_high": 1413.1,
+    "day_low": 1396.2,
+    "NSEcode": "ADANIPORTS",
+    "sectorName": "Transportation",
+    "BSEcode": "532921",
+    "ISIN": "INE742F01042",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/27/ADANIPORTS/adani-ports-special-economic-zone-ltd/"
+      ],
+      [
+        "Forecaster",
+        "https://trendlyne.com/equity/consensus-estimates/27/ADANIPORTS/adani-ports-special-economic-zone-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/forecaster/forecaster-logo-small.png"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/27/ADANIPORTS/adani-ports-special-economic-zone-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "F&O",
+        "https://trendlyne.com/futures-options/derivative/30-Sep-2025-near/27/ADANIPORTS/adani-ports-special-economic-zone-ltd/"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/27/ADANIPORTS/adani-ports-special-economic-zone-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/27/ADANIPORTS/latest/adani-ports-special-economic-zone-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/ADANIPORTS/27/adani-ports-special-economic-zone-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/27/ADANIPORTS/adani-ports-special-economic-zone-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/ADANIPORTS/27/adani-ports-special-economic-zone-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/27/ADANIPORTS/adani-ports-special-economic-zone-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/27/ADANIPORTS/adani-ports-special-economic-zone-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/27/ADANIPORTS/adani-ports-special-economic-zone-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 75,
+      "industry_name": "Marine Port & Services"
+    },
+    "nexturl": "https://trendlyne.com/equity/27/ADANIPORTS/adani-ports-special-economic-zone-ltd/"
+  },
+  {
+    "id": "ADANIENT",
+    "label": "Adani Enterprises Ltd.(ADANIENT)",
+    "value": "ADANIENT",
+    "k": 26,
+    "slugname": "adani-enterprises-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "ADANIENT",
+    "UIcode": "ADANIENT",
+    "category": "Equity",
+    "currentPrice": 2400.0,
+    "day_change": 0.6,
+    "day_changeP": 0.03,
+    "day_high": 2417.0,
+    "day_low": 2391.0,
+    "NSEcode": "ADANIENT",
+    "sectorName": "Commercial Services & Supplies",
+    "BSEcode": "512599",
+    "ISIN": "INE423A01024",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/26/ADANIENT/adani-enterprises-ltd/"
+      ],
+      [
+        "Forecaster",
+        "https://trendlyne.com/equity/consensus-estimates/26/ADANIENT/adani-enterprises-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/forecaster/forecaster-logo-small.png"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/26/ADANIENT/adani-enterprises-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "F&O",
+        "https://trendlyne.com/futures-options/derivative/30-Sep-2025-near/26/ADANIENT/adani-enterprises-ltd/"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/26/ADANIENT/adani-enterprises-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/26/ADANIENT/latest/adani-enterprises-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/ADANIENT/26/adani-enterprises-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/26/ADANIENT/adani-enterprises-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/ADANIENT/26/adani-enterprises-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/26/ADANIENT/adani-enterprises-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/26/ADANIENT/adani-enterprises-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/26/ADANIENT/adani-enterprises-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 24,
+      "industry_name": "Commodity Trading  & Distribution"
+    },
+    "nexturl": "https://trendlyne.com/equity/26/ADANIENT/adani-enterprises-ltd/"
+  },
+  {
+    "id": "ADANIPOWER",
+    "label": "Adani Power Ltd.(ADANIPOWER)",
+    "value": "ADANIPOWER",
+    "k": 28,
+    "slugname": "adani-power-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "ADANIPOWER",
+    "UIcode": "ADANIPOWER",
+    "category": "Equity",
+    "currentPrice": 631.45,
+    "day_change": -5.9,
+    "day_changeP": -0.93,
+    "day_high": 640.25,
+    "day_low": 628.6,
+    "NSEcode": "ADANIPOWER",
+    "sectorName": "Utilities",
+    "BSEcode": "533096",
+    "ISIN": "INE814H01011",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/28/ADANIPOWER/adani-power-ltd/"
+      ],
+      [
+        "Forecaster",
+        "https://trendlyne.com/equity/consensus-estimates/28/ADANIPOWER/adani-power-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/forecaster/forecaster-logo-small.png"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/28/ADANIPOWER/adani-power-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/28/ADANIPOWER/adani-power-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/28/ADANIPOWER/latest/adani-power-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/ADANIPOWER/28/adani-power-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/28/ADANIPOWER/adani-power-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/ADANIPOWER/28/adani-power-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/28/ADANIPOWER/adani-power-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/28/ADANIPOWER/adani-power-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/28/ADANIPOWER/adani-power-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 39,
+      "industry_name": "Power - Electric Utilities"
+    },
+    "nexturl": "https://trendlyne.com/equity/28/ADANIPOWER/adani-power-ltd/"
+  },
+  {
+    "id": "ADANIGREEN",
+    "label": "Adani Green Energy Ltd.(ADANIGREEN)",
+    "value": "ADANIGREEN",
+    "k": 93115,
+    "slugname": "adani-green-energy-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "ADANIGREEN",
+    "UIcode": "ADANIGREEN",
+    "category": "Equity",
+    "currentPrice": 983.0,
+    "day_change": -4.85,
+    "day_changeP": -0.49,
+    "day_high": 993.45,
+    "day_low": 982.25,
+    "NSEcode": "ADANIGREEN",
+    "sectorName": "Utilities",
+    "BSEcode": "541450",
+    "ISIN": "INE364U01010",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/93115/ADANIGREEN/adani-green-energy-ltd/"
+      ],
+      [
+        "Forecaster",
+        "https://trendlyne.com/equity/consensus-estimates/93115/ADANIGREEN/adani-green-energy-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/forecaster/forecaster-logo-small.png"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/93115/ADANIGREEN/adani-green-energy-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "F&O",
+        "https://trendlyne.com/futures-options/derivative/30-Sep-2025-near/93115/ADANIGREEN/adani-green-energy-ltd/"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/93115/ADANIGREEN/adani-green-energy-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/93115/ADANIGREEN/latest/adani-green-energy-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/ADANIGREEN/93115/adani-green-energy-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/93115/ADANIGREEN/adani-green-energy-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/ADANIGREEN/93115/adani-green-energy-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/93115/ADANIGREEN/adani-green-energy-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/93115/ADANIGREEN/adani-green-energy-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/93115/ADANIGREEN/adani-green-energy-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 284,
+      "industry_name": "Green & Renewable Energy"
+    },
+    "nexturl": "https://trendlyne.com/equity/93115/ADANIGREEN/adani-green-energy-ltd/"
+  },
+  {
+    "id": "ADANIENSOL",
+    "label": "Adani Energy Solutions Ltd.(ADANIENSOL)",
+    "value": "ADANIENSOL",
+    "k": 1759,
+    "slugname": "adani-energy-solutions-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "ADANIENSOL",
+    "UIcode": "ADANIENSOL",
+    "category": "Equity",
+    "currentPrice": 829.65,
+    "day_change": -6.9,
+    "day_changeP": -0.82,
+    "day_high": 840.05,
+    "day_low": 829.25,
+    "NSEcode": "ADANIENSOL",
+    "sectorName": "Utilities",
+    "BSEcode": "539254",
+    "ISIN": "INE931S01010",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1759/ADANIENSOL/adani-energy-solutions-ltd/"
+      ],
+      [
+        "Forecaster",
+        "https://trendlyne.com/equity/consensus-estimates/1759/ADANIENSOL/adani-energy-solutions-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/forecaster/forecaster-logo-small.png"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/1759/ADANIENSOL/adani-energy-solutions-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "F&O",
+        "https://trendlyne.com/futures-options/derivative/30-Sep-2025-near/1759/ADANIENSOL/adani-energy-solutions-ltd/"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/1759/ADANIENSOL/adani-energy-solutions-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/1759/ADANIENSOL/latest/adani-energy-solutions-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/ADANIENSOL/1759/adani-energy-solutions-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1759/ADANIENSOL/adani-energy-solutions-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/ADANIENSOL/1759/adani-energy-solutions-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/1759/ADANIENSOL/adani-energy-solutions-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/1759/ADANIENSOL/adani-energy-solutions-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/1759/ADANIENSOL/adani-energy-solutions-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 39,
+      "industry_name": "Power - Electric Utilities"
+    },
+    "nexturl": "https://trendlyne.com/equity/1759/ADANIENSOL/adani-energy-solutions-ltd/"
+  },
+  {
+    "id": "ATGL",
+    "label": "Adani Total Gas Ltd.(ATGL)",
+    "value": "ATGL",
+    "k": 114071,
+    "slugname": "adani-total-gas-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "ATGL",
+    "UIcode": "ATGL",
+    "category": "Equity",
+    "currentPrice": 606.75,
+    "day_change": 0.9,
+    "day_changeP": 0.15,
+    "day_high": 612.55,
+    "day_low": 606.0,
+    "NSEcode": "ATGL",
+    "sectorName": "Utilities",
+    "BSEcode": "542066",
+    "ISIN": "INE399L01023",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/114071/ATGL/adani-total-gas-ltd/"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/114071/ATGL/adani-total-gas-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/114071/ATGL/adani-total-gas-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/114071/ATGL/latest/adani-total-gas-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/ATGL/114071/adani-total-gas-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/114071/ATGL/adani-total-gas-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/ATGL/114071/adani-total-gas-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/114071/ATGL/adani-total-gas-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/114071/ATGL/adani-total-gas-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/114071/ATGL/adani-total-gas-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 123,
+      "industry_name": "Utilities:Non-Electrical"
+    },
+    "nexturl": "https://trendlyne.com/equity/114071/ATGL/adani-total-gas-ltd/"
+  },
+  {
+    "id": "AWL",
+    "label": "AWL Agri Business Ltd.(AWL)",
+    "value": "AWL",
+    "k": 755501,
+    "slugname": "awl-agri-business-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "AWL",
+    "UIcode": "AWL",
+    "category": "Equity",
+    "currentPrice": 260.5,
+    "day_change": -0.15,
+    "day_changeP": -0.06,
+    "day_high": 262.8,
+    "day_low": 259.55,
+    "NSEcode": "AWL",
+    "sectorName": "FMCG",
+    "BSEcode": "543458",
+    "ISIN": "INE699H01024",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/755501/AWL/awl-agri-business-ltd/"
+      ],
+      [
+        "Forecaster",
+        "https://trendlyne.com/equity/consensus-estimates/755501/AWL/awl-agri-business-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/forecaster/forecaster-logo-small.png"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/755501/AWL/awl-agri-business-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/755501/AWL/awl-agri-business-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/755501/AWL/latest/awl-agri-business-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/AWL/755501/awl-agri-business-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/755501/AWL/awl-agri-business-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/AWL/755501/awl-agri-business-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/755501/AWL/awl-agri-business-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/755501/AWL/awl-agri-business-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/755501/AWL/awl-agri-business-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 37,
+      "industry_name": "Edible Oils"
+    },
+    "nexturl": "https://trendlyne.com/equity/755501/AWL/awl-agri-business-ltd/"
+  },
+  {
+    "id": "RELIANCE",
+    "label": "Reliance Industries Ltd.(RELIANCE)",
+    "value": "RELIANCE",
+    "k": 1127,
+    "slugname": "reliance-industries-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "RELIANCE",
+    "UIcode": "RELIANCE",
+    "category": "Equity",
+    "currentPrice": 1413.0,
+    "day_change": 7.7,
+    "day_changeP": 0.55,
+    "day_high": 1416.2,
+    "day_low": 1406.9,
+    "NSEcode": "RELIANCE",
+    "sectorName": "Oil & Gas",
+    "BSEcode": "500325",
+    "ISIN": "INE002A01018",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1127/RELIANCE/reliance-industries-ltd/"
+      ],
+      [
+        "Forecaster",
+        "https://trendlyne.com/equity/consensus-estimates/1127/RELIANCE/reliance-industries-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/forecaster/forecaster-logo-small.png"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/1127/RELIANCE/reliance-industries-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "F&O",
+        "https://trendlyne.com/futures-options/derivative/30-Sep-2025-near/1127/RELIANCE/reliance-industries-ltd/"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/1127/RELIANCE/reliance-industries-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/1127/RELIANCE/latest/reliance-industries-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/RELIANCE/1127/reliance-industries-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1127/RELIANCE/reliance-industries-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/RELIANCE/1127/reliance-industries-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/1127/RELIANCE/reliance-industries-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/1127/RELIANCE/reliance-industries-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/1127/RELIANCE/reliance-industries-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 104,
+      "industry_name": "Refineries/Petro-Products"
+    },
+    "nexturl": "https://trendlyne.com/equity/1127/RELIANCE/reliance-industries-ltd/"
+  },
+  {
+    "id": "NAM-INDIA",
+    "label": "Nippon Life India Asset Management Ltd.(NAM-INDIA)",
+    "value": "NAM-INDIA",
+    "k": 64356,
+    "slugname": "nippon-life-india-asset-management-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "NAM-INDIA",
+    "UIcode": "NAM-INDIA",
+    "category": "Equity",
+    "currentPrice": 850.05,
+    "day_change": 16.75,
+    "day_changeP": 2.01,
+    "day_high": 853.15,
+    "day_low": 834.0,
+    "NSEcode": "NAM-INDIA",
+    "sectorName": "Banking and Finance",
+    "BSEcode": "540767",
+    "ISIN": "INE298J01013",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/64356/NAM-INDIA/nippon-life-india-asset-management-ltd/"
+      ],
+      [
+        "Forecaster",
+        "https://trendlyne.com/equity/consensus-estimates/64356/NAM-INDIA/nippon-life-india-asset-management-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/forecaster/forecaster-logo-small.png"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/64356/NAM-INDIA/nippon-life-india-asset-management-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/64356/NAM-INDIA/nippon-life-india-asset-management-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/64356/NAM-INDIA/latest/nippon-life-india-asset-management-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/NAM-INDIA/64356/nippon-life-india-asset-management-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/64356/NAM-INDIA/nippon-life-india-asset-management-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/NAM-INDIA/64356/nippon-life-india-asset-management-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/64356/NAM-INDIA/nippon-life-india-asset-management-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/64356/NAM-INDIA/nippon-life-india-asset-management-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/64356/NAM-INDIA/nippon-life-india-asset-management-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 8,
+      "industry_name": "Asset Management Cos."
+    },
+    "nexturl": "https://trendlyne.com/equity/64356/NAM-INDIA/nippon-life-india-asset-management-ltd/"
+  },
+  {
+    "id": "RPOWER",
+    "label": "Reliance Power Ltd.(RPOWER)",
+    "value": "RPOWER",
+    "k": 1149,
+    "slugname": "reliance-power-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "RPOWER",
+    "UIcode": "RPOWER",
+    "category": "Equity",
+    "currentPrice": 48.99,
+    "day_change": 1.06,
+    "day_changeP": 2.21,
+    "day_high": 49.28,
+    "day_low": 47.6,
+    "NSEcode": "RPOWER",
+    "sectorName": "Utilities",
+    "BSEcode": "532939",
+    "ISIN": "INE614G01033",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1149/RPOWER/reliance-power-ltd/"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/1149/RPOWER/reliance-power-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/1149/RPOWER/reliance-power-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/1149/RPOWER/latest/reliance-power-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/RPOWER/1149/reliance-power-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1149/RPOWER/reliance-power-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/RPOWER/1149/reliance-power-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/1149/RPOWER/reliance-power-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/1149/RPOWER/reliance-power-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/1149/RPOWER/reliance-power-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 39,
+      "industry_name": "Power - Electric Utilities"
+    },
+    "nexturl": "https://trendlyne.com/equity/1149/RPOWER/reliance-power-ltd/"
+  },
+  {
+    "id": "RS",
+    "label": "Reliance Steel & Aluminum Co.(RS)",
+    "value": "RS",
+    "k": 1404655,
+    "slugname": "reliance-steel-aluminum-co",
+    "country": "USA",
+    "defaultExchange": "XNYS",
+    "stock_code": "RS",
+    "UIcode": "RS",
+    "category": "Equity",
+    "currentPrice": 290.37,
+    "day_change": -0.57,
+    "day_changeP": -0.2,
+    "day_high": 295.22,
+    "day_low": 289.78,
+    "NSEcode": "RS",
+    "sectorName": "Metals & Mining",
+    "BSEcode": null,
+    "ISIN": null,
+    "urls": [
+      [
+        "Overview",
+        "https://us.trendlyne.com/us/equity/1404655/RS/reliance-steel-aluminum-co/"
+      ],
+      [
+        "Forecaster",
+        "https://us.trendlyne.com/us/equity/consensus-estimates/1404655/RS/reliance-steel-aluminum-co/",
+        "https://cdn-static.trendlyne.com/static/img/forecaster/forecaster-logo-small.png"
+      ],
+      [
+        "Stock Report",
+        "https://us.trendlyne.com/us/equity/stock-report/1404655/RS/reliance-steel-aluminum-co/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "Financials",
+        "https://us.trendlyne.com/us/fundamentals/financials/1404655/RS/reliance-steel-aluminum-co/"
+      ],
+      [
+        "Ownership",
+        "https://us.trendlyne.com/us/equity/ownership/1404655/RS/latest/reliance-steel-aluminum-co/"
+      ],
+      [
+        "Technicals",
+        "https://us.trendlyne.com/us/equity/technical-analysis/RS/1404655/reliance-steel-aluminum-co/"
+      ],
+      [
+        "Share Price History",
+        "https://us.trendlyne.com/us/share-price/performance/1404655/RS/reliance-steel-aluminum-co/"
+      ],
+      [
+        "Corp. Actions",
+        "https://us.trendlyne.com/us/equity/corporate-actions/RS/1404655/reliance-steel-aluminum-co/"
+      ],
+      [
+        "Insider Trades",
+        "https://us.trendlyne.com/us/equity/insider-trading/all/RS/1404655/reliance-steel-aluminum-co/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 188,
+      "industry_name": "Steel"
+    },
+    "nexturl": "https://us.trendlyne.com/us/equity/1404655/RS/reliance-steel-aluminum-co/"
+  },
+  {
+    "id": "RELINFRA",
+    "label": "Reliance Infrastructure Ltd.(RELINFRA)",
+    "value": "RELINFRA",
+    "k": 1129,
+    "slugname": "reliance-infrastructure-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "RELINFRA",
+    "UIcode": "RELINFRA",
+    "category": "Equity",
+    "currentPrice": 271.9,
+    "day_change": 11.5,
+    "day_changeP": 4.42,
+    "day_high": 272.25,
+    "day_low": 263.0,
+    "NSEcode": "RELINFRA",
+    "sectorName": "Utilities",
+    "BSEcode": "500390",
+    "ISIN": "INE036A01016",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1129/RELINFRA/reliance-infrastructure-ltd/"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/1129/RELINFRA/reliance-infrastructure-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/1129/RELINFRA/reliance-infrastructure-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/1129/RELINFRA/latest/reliance-infrastructure-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/RELINFRA/1129/reliance-infrastructure-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1129/RELINFRA/reliance-infrastructure-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/RELINFRA/1129/reliance-infrastructure-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/1129/RELINFRA/reliance-infrastructure-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/1129/RELINFRA/reliance-infrastructure-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/1129/RELINFRA/reliance-infrastructure-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 39,
+      "industry_name": "Power - Electric Utilities"
+    },
+    "nexturl": "https://trendlyne.com/equity/1129/RELINFRA/reliance-infrastructure-ltd/"
+  },
+  {
+    "id": "RIIL",
+    "label": "Reliance Industrial InfraStructure Ltd.(RIIL)",
+    "value": "RIIL",
+    "k": 1137,
+    "slugname": "reliance-industrial-infrastructure-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "RIIL",
+    "UIcode": "RIIL",
+    "category": "Equity",
+    "currentPrice": 926.3,
+    "day_change": 1.3,
+    "day_changeP": 0.14,
+    "day_high": 938.0,
+    "day_low": 926.05,
+    "NSEcode": "RIIL",
+    "sectorName": "Cement and Construction ",
+    "BSEcode": "523445",
+    "ISIN": "INE046A01015",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1137/RIIL/reliance-industrial-infrastructure-ltd/"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/1137/RIIL/reliance-industrial-infrastructure-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/1137/RIIL/reliance-industrial-infrastructure-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/1137/RIIL/latest/reliance-industrial-infrastructure-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/RIIL/1137/reliance-industrial-infrastructure-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1137/RIIL/reliance-industrial-infrastructure-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/RIIL/1137/reliance-industrial-infrastructure-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/1137/RIIL/reliance-industrial-infrastructure-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/1137/RIIL/reliance-industrial-infrastructure-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/1137/RIIL/reliance-industrial-infrastructure-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 26,
+      "industry_name": "Construction & Engineering"
+    },
+    "nexturl": "https://trendlyne.com/equity/1137/RIIL/reliance-industrial-infrastructure-ltd/"
+  },
+  {
+    "id": "RCOM",
+    "label": "Reliance Communications Ltd.(RCOM)",
+    "value": "RCOM",
+    "k": 1118,
+    "slugname": "reliance-communications-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "RCOM",
+    "UIcode": "RCOM",
+    "category": "Equity",
+    "currentPrice": 1.45,
+    "day_change": 0.03,
+    "day_changeP": 2.11,
+    "day_high": 1.46,
+    "day_low": 1.43,
+    "NSEcode": "RCOM",
+    "sectorName": "Telecom Services",
+    "BSEcode": "532712",
+    "ISIN": "INE330H01018",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1118/RCOM/reliance-communications-ltd/"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/1118/RCOM/reliance-communications-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/1118/RCOM/reliance-communications-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/1118/RCOM/latest/reliance-communications-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/RCOM/1118/reliance-communications-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1118/RCOM/reliance-communications-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/RCOM/1118/reliance-communications-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/1118/RCOM/reliance-communications-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/1118/RCOM/reliance-communications-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/1118/RCOM/reliance-communications-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 118,
+      "industry_name": "Telecom Services"
+    },
+    "nexturl": "https://trendlyne.com/equity/1118/RCOM/reliance-communications-ltd/"
+  },
+  {
+    "id": "SWANDEF",
+    "label": "Swan Defence and Heavy Industries Ltd.(SWANDEF)",
+    "value": "SWANDEF",
+    "k": 1043,
+    "slugname": "swan-defence-and-heavy-industries-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "SWANDEF",
+    "UIcode": "SWANDEF",
+    "category": "Equity",
+    "currentPrice": 549.65,
+    "day_change": 26.15,
+    "day_changeP": 5.0,
+    "day_high": 549.65,
+    "day_low": 549.6,
+    "NSEcode": "SWANDEF",
+    "sectorName": "Transportation",
+    "BSEcode": "533107",
+    "ISIN": "INE542F01020",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1043/SWANDEF/swan-defence-and-heavy-industries-ltd/"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/1043/SWANDEF/swan-defence-and-heavy-industries-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/1043/SWANDEF/swan-defence-and-heavy-industries-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/1043/SWANDEF/latest/swan-defence-and-heavy-industries-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/SWANDEF/1043/swan-defence-and-heavy-industries-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1043/SWANDEF/swan-defence-and-heavy-industries-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/SWANDEF/1043/swan-defence-and-heavy-industries-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/1043/SWANDEF/swan-defence-and-heavy-industries-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/1043/SWANDEF/swan-defence-and-heavy-industries-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/1043/SWANDEF/swan-defence-and-heavy-industries-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 107,
+      "industry_name": "Shipping"
+    },
+    "nexturl": "https://trendlyne.com/equity/1043/SWANDEF/swan-defence-and-heavy-industries-ltd/"
+  },
+  {
+    "id": "RHFL",
+    "label": "Reliance Home Finance Ltd.(RHFL)",
+    "value": "RHFL",
+    "k": 71312,
+    "slugname": "reliance-home-finance-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "RHFL",
+    "UIcode": "RHFL",
+    "category": "Equity",
+    "currentPrice": 4.7,
+    "day_change": -0.03,
+    "day_changeP": -0.63,
+    "day_high": 4.78,
+    "day_low": 4.65,
+    "NSEcode": "RHFL",
+    "sectorName": "Banking and Finance",
+    "BSEcode": "540709",
+    "ISIN": "INE217K01011",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/71312/RHFL/reliance-home-finance-ltd/"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/71312/RHFL/reliance-home-finance-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/71312/RHFL/reliance-home-finance-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/71312/RHFL/latest/reliance-home-finance-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/RHFL/71312/reliance-home-finance-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/71312/RHFL/reliance-home-finance-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/RHFL/71312/reliance-home-finance-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/71312/RHFL/reliance-home-finance-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/71312/RHFL/reliance-home-finance-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/71312/RHFL/reliance-home-finance-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 60,
+      "industry_name": "Housing Finance "
+    },
+    "nexturl": "https://trendlyne.com/equity/71312/RHFL/reliance-home-finance-ltd/"
+  },
+  {
+    "id": "RELCHEMQ",
+    "label": "Reliance Chemotex Industries Ltd.(RELCHEMQ)",
+    "value": "RELCHEMQ",
+    "k": 2139,
+    "slugname": "reliance-chemotex-industries-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "RELCHEMQ",
+    "UIcode": "RELCHEMQ",
+    "category": "Equity",
+    "currentPrice": 162.18,
+    "day_change": -0.72,
+    "day_changeP": -0.44,
+    "day_high": 166.87,
+    "day_low": 160.0,
+    "NSEcode": "RELCHEMQ",
+    "sectorName": "Textiles Apparels & Accessories",
+    "BSEcode": "503162",
+    "ISIN": "INE750D01016",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/2139/RELCHEMQ/reliance-chemotex-industries-ltd/"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/2139/RELCHEMQ/reliance-chemotex-industries-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/2139/RELCHEMQ/reliance-chemotex-industries-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/2139/RELCHEMQ/latest/reliance-chemotex-industries-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/RELCHEMQ/2139/reliance-chemotex-industries-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/2139/RELCHEMQ/reliance-chemotex-industries-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/RELCHEMQ/2139/reliance-chemotex-industries-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/2139/RELCHEMQ/reliance-chemotex-industries-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/2139/RELCHEMQ/reliance-chemotex-industries-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/2139/RELCHEMQ/reliance-chemotex-industries-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 119,
+      "industry_name": "Textiles"
+    },
+    "nexturl": "https://trendlyne.com/equity/2139/RELCHEMQ/reliance-chemotex-industries-ltd/"
+  },
+  {
+    "id": "RELI",
+    "label": "Reliance Global Group Inc(RELI)",
+    "value": "RELI",
+    "k": 1554902,
+    "slugname": "reliance-global-group-inc",
+    "country": "USA",
+    "defaultExchange": "XNAS",
+    "stock_code": "RELI",
+    "UIcode": "RELI",
+    "category": "Equity",
+    "currentPrice": 0.68,
+    "day_change": -0.12,
+    "day_changeP": -15.0,
+    "day_high": 0.8,
+    "day_low": 0.67,
+    "NSEcode": "RELI",
+    "sectorName": "Banking & Finance",
+    "BSEcode": null,
+    "ISIN": null,
+    "urls": [
+      [
+        "Overview",
+        "https://us.trendlyne.com/us/equity/1554902/RELI/reliance-global-group-inc/"
+      ],
+      [
+        "Stock Report",
+        "https://us.trendlyne.com/us/equity/stock-report/1554902/RELI/reliance-global-group-inc/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "Financials",
+        "https://us.trendlyne.com/us/fundamentals/financials/1554902/RELI/reliance-global-group-inc/"
+      ],
+      [
+        "Ownership",
+        "https://us.trendlyne.com/us/equity/ownership/1554902/RELI/latest/reliance-global-group-inc/"
+      ],
+      [
+        "Technicals",
+        "https://us.trendlyne.com/us/equity/technical-analysis/RELI/1554902/reliance-global-group-inc/"
+      ],
+      [
+        "Share Price History",
+        "https://us.trendlyne.com/us/share-price/performance/1554902/RELI/reliance-global-group-inc/"
+      ],
+      [
+        "Corp. Actions",
+        "https://us.trendlyne.com/us/equity/corporate-actions/RELI/1554902/reliance-global-group-inc/"
+      ],
+      [
+        "Insider Trades",
+        "https://us.trendlyne.com/us/equity/insider-trading/all/RELI/1554902/reliance-global-group-inc/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 140,
+      "industry_name": "Financial Conglomerates"
+    },
+    "nexturl": "https://us.trendlyne.com/us/equity/1554902/RELI/reliance-global-group-inc/"
+  },
+  {
+    "id": "F00000PD84",
+    "label": "Nippon India Aggressive Hybrid Fund Direct Plan Payout Inc Dist cum Cap Wdrl(F00000PD84)",
+    "value": "F00000PD84",
+    "k": 161376,
+    "slugname": "nippon-india-aggressive-hybrid-fund-direct-plan-payout-inc-dist-cum-cap-wdrl",
+    "country": "IND",
+    "defaultExchange": "AMFI",
+    "stock_code": null,
+    "UIcode": "F00000PD84",
+    "category": "Mutual Funds",
+    "currentPrice": 40.14,
+    "day_change": 0.23,
+    "day_changeP": 0.58,
+    "day_high": null,
+    "day_low": null,
+    "NSEcode": null,
+    "sectorName": "Aggressive Allocation",
+    "BSEcode": null,
+    "ISIN": "INF204K01B16",
+    "urls": [],
+    "industry": {},
+    "nexturl": "https://trendlyne.com/mutual-fund/nav/161376/nippon-india-aggressive-hybrid-fund-direct-plan-payout-inc-dist-cum-cap-wdrl/"
+  },
+  {
+    "id": "RELIANCE-GROUP",
+    "label": "Reliance Group(RELIANCE-GROUP)",
+    "value": "RELIANCE-GROUP",
+    "k": 621962,
+    "slugname": "reliance-group-portfolio",
+    "country": "IND",
+    "defaultExchange": "",
+    "category": "Superstars",
+    "nexturl": "https://trendlyne.com/portfolio/superstar-shareholders/621962/latest/reliance-group-portfolio/",
+    "superstarId": 621962,
+    "superstarName": "Reliance Group"
+  },
+  {
+    "id": "reliance-capital-trustee-co-ltd",
+    "label": "Reliance Capital Trustee Co Ltd(reliance-capital-trustee-co-ltd)",
+    "value": "reliance-capital-trustee-co-ltd",
+    "k": 53998,
+    "slugname": "reliance-capital-trustee-co-ltd-portfolio",
+    "country": "IND",
+    "defaultExchange": "",
+    "category": "Superstars",
+    "nexturl": "https://trendlyne.com/portfolio/superstar-shareholders/53998/latest/reliance-capital-trustee-co-ltd-portfolio/",
+    "superstarId": 53998,
+    "superstarName": "Reliance Capital Trustee Co Ltd"
+  },
+  {
+    "id": "reliance-capital-limited",
+    "label": "Reliance Capital Limited(reliance-capital-limited)",
+    "value": "reliance-capital-limited",
+    "k": 53997,
+    "slugname": "reliance-capital-limited-portfolio",
+    "country": "IND",
+    "defaultExchange": "",
+    "category": "Superstars",
+    "nexturl": "https://trendlyne.com/portfolio/superstar-shareholders/53997/latest/reliance-capital-limited-portfolio/",
+    "superstarId": 53997,
+    "superstarName": "Reliance Capital Limited"
+  },
+  {
+    "id": "RELCAPITAL",
+    "label": "Reliance Capital Ltd.(RELCAPITAL)",
+    "value": "RELCAPITAL",
+    "k": 1126,
+    "slugname": "reliance-capital-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "RELCAPITAL",
+    "UIcode": "RELCAPITAL",
+    "category": "Not Traded",
+    "tag": "Not Traded",
+    "urls": [
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/1126/RELCAPITAL/reliance-capital-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/1126/RELCAPITAL/latest/reliance-capital-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/RELCAPITAL/1126/reliance-capital-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1126/RELCAPITAL/reliance-capital-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/RELCAPITAL/1126/reliance-capital-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/1126/RELCAPITAL/reliance-capital-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/1126/RELCAPITAL/reliance-capital-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/1126/RELCAPITAL/reliance-capital-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 44,
+      "industry_name": "Finance (including NBFCs)"
+    },
+    "nexturl": "https://trendlyne.com/equity/1126/RELCAPITAL/reliance-capital-ltd/"
+  },
+  {
+    "id": "RIL-RE",
+    "label": "Reliance Industries Limited-Rights Entitlement(RIL-RE)",
+    "value": "RIL-RE",
+    "k": 219761,
+    "slugname": "reliance-industries-limited-rights-entitlement",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "RIL-RE",
+    "UIcode": "RIL-RE",
+    "category": "Not Traded",
+    "tag": "Not Traded",
+    "urls": [
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/219761/RIL-RE/reliance-industries-limited-rights-entitlement/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/219761/RIL-RE/latest/reliance-industries-limited-rights-entitlement/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/RIL-RE/219761/reliance-industries-limited-rights-entitlement/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/219761/RIL-RE/reliance-industries-limited-rights-entitlement/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/RIL-RE/219761/reliance-industries-limited-rights-entitlement/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/219761/RIL-RE/reliance-industries-limited-rights-entitlement/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/219761/RIL-RE/reliance-industries-limited-rights-entitlement/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/219761/RIL-RE/reliance-industries-limited-rights-entitlement/"
+      ]
+    ],
+    "industry": {},
+    "nexturl": "https://trendlyne.com/equity/219761/RIL-RE/reliance-industries-limited-rights-entitlement/"
+  },
+  {
+    "id": "RELIANCEP1",
+    "label": "Reliance Industries Ltd Partly Paidup(RELIANCEP1)",
+    "value": "RELIANCEP1",
+    "k": 231917,
+    "slugname": "reliance-industries-ltd-partly-paidup",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "RELIANCEP1",
+    "UIcode": "RELIANCEP1",
+    "category": "Not Traded",
+    "tag": "Not Traded",
+    "urls": [
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/231917/RELIANCEP1/reliance-industries-ltd-partly-paidup/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/231917/RELIANCEP1/latest/reliance-industries-ltd-partly-paidup/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/RELIANCEP1/231917/reliance-industries-ltd-partly-paidup/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/231917/RELIANCEP1/reliance-industries-ltd-partly-paidup/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/RELIANCEP1/231917/reliance-industries-ltd-partly-paidup/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/231917/RELIANCEP1/reliance-industries-ltd-partly-paidup/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/231917/RELIANCEP1/reliance-industries-ltd-partly-paidup/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/231917/RELIANCEP1/reliance-industries-ltd-partly-paidup/"
+      ]
+    ],
+    "industry": {},
+    "nexturl": "https://trendlyne.com/equity/231917/RELIANCEP1/reliance-industries-ltd-partly-paidup/"
+  },
+  {
+    "id": "RELBANK",
+    "label": "Reliance Mutual Fund - Bank Nifty ETF(RELBANK)",
+    "value": "RELBANK",
+    "k": 1592,
+    "slugname": "reliance-mutual-fund-bank-nifty-etf",
+    "country": "IND",
+    "defaultExchange": "BSE",
+    "stock_code": null,
+    "UIcode": null,
+    "category": "Not Traded",
+    "tag": "Not Traded",
+    "urls": [
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1592/RELBANK/reliance-mutual-fund-bank-nifty-etf/"
+      ]
+    ],
+    "industry": {},
+    "nexturl": "https://trendlyne.com/equity/1592/RELBANK/reliance-mutual-fund-bank-nifty-etf/"
+  },
+  {
+    "id": "RELGOLD",
+    "label": "Reliance Mutual Fund - Gold ETF(RELGOLD)",
+    "value": "RELGOLD",
+    "k": 1593,
+    "slugname": "reliance-mutual-fund-gold-etf",
+    "country": "IND",
+    "defaultExchange": "BSE",
+    "stock_code": null,
+    "UIcode": null,
+    "category": "Not Traded",
+    "tag": "Not Traded",
+    "urls": [
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1593/RELGOLD/reliance-mutual-fund-gold-etf/"
+      ]
+    ],
+    "industry": {},
+    "nexturl": "https://trendlyne.com/equity/1593/RELGOLD/reliance-mutual-fund-gold-etf/"
+  },
+  {
+    "id": "NIFTYTATAGROUP25CAP",
+    "label": "Nifty Tata Group 25% Cap(NIFTYTATAGROUP25CAP)",
+    "value": "NIFTYTATAGROUP25CAP",
+    "k": 1921,
+    "slugname": "nifty-tata-group-25-cap",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "NIFTYTATAGROUP25CAP",
+    "UIcode": "NIFTYTATAGROUP25CAP",
+    "category": "Index",
+    "currentPrice": 15250.25,
+    "day_change": 65.0,
+    "day_changeP": 0.43,
+    "day_high": 15284.0,
+    "day_low": 15233.15,
+    "NSEcode": "NIFTYTATAGROUP25CAP",
+    "sectorName": "Others",
+    "BSEcode": null,
+    "ISIN": "NIFTYTATAGROUP25CAP",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1921/NIFTYTATAGROUP25CAP/nifty-tata-group-25-cap/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/NIFTYTATAGROUP25CAP/1921/nifty-tata-group-25-cap/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/1921/NIFTYTATAGROUP25CAP/nifty-tata-group-25-cap/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1921/NIFTYTATAGROUP25CAP/nifty-tata-group-25-cap/"
+      ],
+      [
+        "PE",
+        "https://trendlyne.com/equity/PE/NIFTYTATAGROUP25CAP/1921/nifty-tata-group-25-cap/"
+      ],
+      [
+        "PB",
+        "https://trendlyne.com/equity/PB/NIFTYTATAGROUP25CAP/1921/nifty-tata-group-25-cap/"
+      ],
+      [
+        "EPS",
+        "https://trendlyne.com/equity/EPS/NIFTYTATAGROUP25CAP/1921/nifty-tata-group-25-cap/"
+      ],
+      [
+        "DIV",
+        "https://trendlyne.com/equity/DIV/NIFTYTATAGROUP25CAP/1921/nifty-tata-group-25-cap/"
+      ]
+    ],
+    "industry": {},
+    "nexturl": "https://trendlyne.com/equity/1921/NIFTYTATAGROUP25CAP/nifty-tata-group-25-cap/"
+  },
+  {
+    "id": "NIFTYTATAGROUP",
+    "label": "Nifty Tata Group(NIFTYTATAGROUP)",
+    "value": "NIFTYTATAGROUP",
+    "k": 1920,
+    "slugname": "nifty-tata-group",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "NIFTYTATAGROUP",
+    "UIcode": "NIFTYTATAGROUP",
+    "category": "Index",
+    "currentPrice": 16103.83,
+    "day_change": 124.69,
+    "day_changeP": 0.78,
+    "day_high": null,
+    "day_low": null,
+    "NSEcode": "NIFTYTATAGROUP",
+    "sectorName": "Others",
+    "BSEcode": null,
+    "ISIN": "NIFTYTATAGROUP",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1920/NIFTYTATAGROUP/nifty-tata-group/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/NIFTYTATAGROUP/1920/nifty-tata-group/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/1920/NIFTYTATAGROUP/nifty-tata-group/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1920/NIFTYTATAGROUP/nifty-tata-group/"
+      ],
+      [
+        "PE",
+        "https://trendlyne.com/equity/PE/NIFTYTATAGROUP/1920/nifty-tata-group/"
+      ],
+      [
+        "PB",
+        "https://trendlyne.com/equity/PB/NIFTYTATAGROUP/1920/nifty-tata-group/"
+      ],
+      [
+        "EPS",
+        "https://trendlyne.com/equity/EPS/NIFTYTATAGROUP/1920/nifty-tata-group/"
+      ],
+      [
+        "DIV",
+        "https://trendlyne.com/equity/DIV/NIFTYTATAGROUP/1920/nifty-tata-group/"
+      ]
+    ],
+    "industry": {},
+    "nexturl": "https://trendlyne.com/equity/1920/NIFTYTATAGROUP/nifty-tata-group/"
+  },
+  {
+    "id": "TCS",
+    "label": "Tata Consultancy Services Ltd.(TCS)",
+    "value": "TCS",
+    "k": 1372,
+    "slugname": "tata-consultancy-services-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "TCS",
+    "UIcode": "TCS",
+    "category": "Equity",
+    "currentPrice": 3171.9,
+    "day_change": 26.2,
+    "day_changeP": 0.83,
+    "day_high": 3182.4,
+    "day_low": 3142.4,
+    "NSEcode": "TCS",
+    "sectorName": "Software & Services",
+    "BSEcode": "532540",
+    "ISIN": "INE467B01029",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1372/TCS/tata-consultancy-services-ltd/"
+      ],
+      [
+        "Forecaster",
+        "https://trendlyne.com/equity/consensus-estimates/1372/TCS/tata-consultancy-services-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/forecaster/forecaster-logo-small.png"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/1372/TCS/tata-consultancy-services-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "F&O",
+        "https://trendlyne.com/futures-options/derivative/30-Sep-2025-near/1372/TCS/tata-consultancy-services-ltd/"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/1372/TCS/tata-consultancy-services-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/1372/TCS/latest/tata-consultancy-services-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/TCS/1372/tata-consultancy-services-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1372/TCS/tata-consultancy-services-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/TCS/1372/tata-consultancy-services-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/1372/TCS/tata-consultancy-services-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/1372/TCS/tata-consultancy-services-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/1372/TCS/tata-consultancy-services-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 70,
+      "industry_name": "IT Consulting & Software"
+    },
+    "nexturl": "https://trendlyne.com/equity/1372/TCS/tata-consultancy-services-ltd/"
+  },
+  {
+    "id": "TATAMOTORS",
+    "label": "Tata Motors Ltd.(TATAMOTORS)",
+    "value": "TATAMOTORS",
+    "k": 1362,
+    "slugname": "tata-motors-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "TATAMOTORS",
+    "UIcode": "TATAMOTORS",
+    "category": "Equity",
+    "currentPrice": 719.8,
+    "day_change": 6.55,
+    "day_changeP": 0.92,
+    "day_high": 722.95,
+    "day_low": 714.3,
+    "NSEcode": "TATAMOTORS",
+    "sectorName": "Automobiles & Auto Components",
+    "BSEcode": "500570",
+    "ISIN": "INE155A01022",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1362/TATAMOTORS/tata-motors-ltd/"
+      ],
+      [
+        "Forecaster",
+        "https://trendlyne.com/equity/consensus-estimates/1362/TATAMOTORS/tata-motors-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/forecaster/forecaster-logo-small.png"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/1362/TATAMOTORS/tata-motors-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "F&O",
+        "https://trendlyne.com/futures-options/derivative/30-Sep-2025-near/1362/TATAMOTORS/tata-motors-ltd/"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/1362/TATAMOTORS/tata-motors-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/1362/TATAMOTORS/latest/tata-motors-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/TATAMOTORS/1362/tata-motors-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1362/TATAMOTORS/tata-motors-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/TATAMOTORS/1362/tata-motors-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/1362/TATAMOTORS/tata-motors-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/1362/TATAMOTORS/tata-motors-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/1362/TATAMOTORS/tata-motors-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 17,
+      "industry_name": "Cars & Utility Vehicles"
+    },
+    "nexturl": "https://trendlyne.com/equity/1362/TATAMOTORS/tata-motors-ltd/"
+  },
+  {
+    "id": "TATASTEEL",
+    "label": "Tata Steel Ltd.(TATASTEEL)",
+    "value": "TATASTEEL",
+    "k": 1366,
+    "slugname": "tata-steel-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "TATASTEEL",
+    "UIcode": "TATASTEEL",
+    "category": "Equity",
+    "currentPrice": 170.25,
+    "day_change": -1.77,
+    "day_changeP": -1.03,
+    "day_high": 172.9,
+    "day_low": 170.06,
+    "NSEcode": "TATASTEEL",
+    "sectorName": "Metals & Mining",
+    "BSEcode": "500470",
+    "ISIN": "INE081A01020",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1366/TATASTEEL/tata-steel-ltd/"
+      ],
+      [
+        "Forecaster",
+        "https://trendlyne.com/equity/consensus-estimates/1366/TATASTEEL/tata-steel-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/forecaster/forecaster-logo-small.png"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/1366/TATASTEEL/tata-steel-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "F&O",
+        "https://trendlyne.com/futures-options/derivative/30-Sep-2025-near/1366/TATASTEEL/tata-steel-ltd/"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/1366/TATASTEEL/tata-steel-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/1366/TATASTEEL/latest/tata-steel-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/TATASTEEL/1366/tata-steel-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1366/TATASTEEL/tata-steel-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/TATASTEEL/1366/tata-steel-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/1366/TATASTEEL/tata-steel-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/1366/TATASTEEL/tata-steel-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/1366/TATASTEEL/tata-steel-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 68,
+      "industry_name": "Iron & Steel/Interm.Products"
+    },
+    "nexturl": "https://trendlyne.com/equity/1366/TATASTEEL/tata-steel-ltd/"
+  },
+  {
+    "id": "TATAPOWER",
+    "label": "Tata Power Company Ltd.(TATAPOWER)",
+    "value": "TATAPOWER",
+    "k": 1364,
+    "slugname": "tata-power-company-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "TATAPOWER",
+    "UIcode": "TATAPOWER",
+    "category": "Equity",
+    "currentPrice": 395.0,
+    "day_change": -1.05,
+    "day_changeP": -0.27,
+    "day_high": 397.8,
+    "day_low": 393.55,
+    "NSEcode": "TATAPOWER",
+    "sectorName": "Utilities",
+    "BSEcode": "500400",
+    "ISIN": "INE245A01021",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1364/TATAPOWER/tata-power-company-ltd/"
+      ],
+      [
+        "Forecaster",
+        "https://trendlyne.com/equity/consensus-estimates/1364/TATAPOWER/tata-power-company-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/forecaster/forecaster-logo-small.png"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/1364/TATAPOWER/tata-power-company-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "F&O",
+        "https://trendlyne.com/futures-options/derivative/30-Sep-2025-near/1364/TATAPOWER/tata-power-company-ltd/"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/1364/TATAPOWER/tata-power-company-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/1364/TATAPOWER/latest/tata-power-company-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/TATAPOWER/1364/tata-power-company-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1364/TATAPOWER/tata-power-company-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/TATAPOWER/1364/tata-power-company-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/1364/TATAPOWER/tata-power-company-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/1364/TATAPOWER/tata-power-company-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/1364/TATAPOWER/tata-power-company-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 39,
+      "industry_name": "Power - Electric Utilities"
+    },
+    "nexturl": "https://trendlyne.com/equity/1364/TATAPOWER/tata-power-company-ltd/"
+  },
+  {
+    "id": "TATACONSUM",
+    "label": "Tata Consumer Products Ltd.(TATACONSUM)",
+    "value": "TATACONSUM",
+    "k": 1359,
+    "slugname": "tata-consumer-products-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "TATACONSUM",
+    "UIcode": "TATACONSUM",
+    "category": "Equity",
+    "currentPrice": 1132.7,
+    "day_change": 40.6,
+    "day_changeP": 3.72,
+    "day_high": 1133.0,
+    "day_low": 1103.1,
+    "NSEcode": "TATACONSUM",
+    "sectorName": "Food, Beverages & Tobacco",
+    "BSEcode": "500800",
+    "ISIN": "INE192A01025",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1359/TATACONSUM/tata-consumer-products-ltd/"
+      ],
+      [
+        "Forecaster",
+        "https://trendlyne.com/equity/consensus-estimates/1359/TATACONSUM/tata-consumer-products-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/forecaster/forecaster-logo-small.png"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/1359/TATACONSUM/tata-consumer-products-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "F&O",
+        "https://trendlyne.com/futures-options/derivative/30-Sep-2025-near/1359/TATACONSUM/tata-consumer-products-ltd/"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/1359/TATACONSUM/tata-consumer-products-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/1359/TATACONSUM/latest/tata-consumer-products-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/TATACONSUM/1359/tata-consumer-products-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1359/TATACONSUM/tata-consumer-products-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/TATACONSUM/1359/tata-consumer-products-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/1359/TATACONSUM/tata-consumer-products-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/1359/TATACONSUM/tata-consumer-products-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/1359/TATACONSUM/tata-consumer-products-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 114,
+      "industry_name": "Tea & Coffee"
+    },
+    "nexturl": "https://trendlyne.com/equity/1359/TATACONSUM/tata-consumer-products-ltd/"
+  },
+  {
+    "id": "TATACOMM",
+    "label": "Tata Communications Ltd.(TATACOMM)",
+    "value": "TATACOMM",
+    "k": 1357,
+    "slugname": "tata-communications-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "TATACOMM",
+    "UIcode": "TATACOMM",
+    "category": "Equity",
+    "currentPrice": 1692.1,
+    "day_change": -21.7,
+    "day_changeP": -1.27,
+    "day_high": 1725.9,
+    "day_low": 1689.8,
+    "NSEcode": "TATACOMM",
+    "sectorName": "Telecom Services",
+    "BSEcode": "500483",
+    "ISIN": "INE151A01013",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1357/TATACOMM/tata-communications-ltd/"
+      ],
+      [
+        "Forecaster",
+        "https://trendlyne.com/equity/consensus-estimates/1357/TATACOMM/tata-communications-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/forecaster/forecaster-logo-small.png"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/1357/TATACOMM/tata-communications-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/1357/TATACOMM/tata-communications-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/1357/TATACOMM/latest/tata-communications-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/TATACOMM/1357/tata-communications-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1357/TATACOMM/tata-communications-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/TATACOMM/1357/tata-communications-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/1357/TATACOMM/tata-communications-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/1357/TATACOMM/tata-communications-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/1357/TATACOMM/tata-communications-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 94,
+      "industry_name": "Other Telecom Services"
+    },
+    "nexturl": "https://trendlyne.com/equity/1357/TATACOMM/tata-communications-ltd/"
+  },
+  {
+    "id": "TATAELXSI",
+    "label": "Tata Elxsi Ltd.(TATAELXSI)",
+    "value": "TATAELXSI",
+    "k": 1358,
+    "slugname": "tata-elxsi-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "TATAELXSI",
+    "UIcode": "TATAELXSI",
+    "category": "Equity",
+    "currentPrice": 5695.0,
+    "day_change": -12.0,
+    "day_changeP": -0.21,
+    "day_high": 5768.0,
+    "day_low": 5675.0,
+    "NSEcode": "TATAELXSI",
+    "sectorName": "Software & Services",
+    "BSEcode": "500408",
+    "ISIN": "INE670A01012",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1358/TATAELXSI/tata-elxsi-ltd/"
+      ],
+      [
+        "Forecaster",
+        "https://trendlyne.com/equity/consensus-estimates/1358/TATAELXSI/tata-elxsi-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/forecaster/forecaster-logo-small.png"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/1358/TATAELXSI/tata-elxsi-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "F&O",
+        "https://trendlyne.com/futures-options/derivative/30-Sep-2025-near/1358/TATAELXSI/tata-elxsi-ltd/"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/1358/TATAELXSI/tata-elxsi-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/1358/TATAELXSI/latest/tata-elxsi-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/TATAELXSI/1358/tata-elxsi-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1358/TATAELXSI/tata-elxsi-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/TATAELXSI/1358/tata-elxsi-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/1358/TATAELXSI/tata-elxsi-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/1358/TATAELXSI/tata-elxsi-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/1358/TATAELXSI/tata-elxsi-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 70,
+      "industry_name": "IT Consulting & Software"
+    },
+    "nexturl": "https://trendlyne.com/equity/1358/TATAELXSI/tata-elxsi-ltd/"
+  },
+  {
+    "id": "TATAINVEST",
+    "label": "Tata Investment Corporation Ltd.(TATAINVEST)",
+    "value": "TATAINVEST",
+    "k": 1360,
+    "slugname": "tata-investment-corporation-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "TATAINVEST",
+    "UIcode": "TATAINVEST",
+    "category": "Equity",
+    "currentPrice": 7019.0,
+    "day_change": -20.0,
+    "day_changeP": -0.28,
+    "day_high": 7167.5,
+    "day_low": 7005.0,
+    "NSEcode": "TATAINVEST",
+    "sectorName": "Diversified",
+    "BSEcode": "501301",
+    "ISIN": "INE672A01018",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1360/TATAINVEST/tata-investment-corporation-ltd/"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/1360/TATAINVEST/tata-investment-corporation-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/1360/TATAINVEST/tata-investment-corporation-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/1360/TATAINVEST/latest/tata-investment-corporation-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/TATAINVEST/1360/tata-investment-corporation-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1360/TATAINVEST/tata-investment-corporation-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/TATAINVEST/1360/tata-investment-corporation-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/1360/TATAINVEST/tata-investment-corporation-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/1360/TATAINVEST/tata-investment-corporation-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/1360/TATAINVEST/tata-investment-corporation-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 55,
+      "industry_name": "Holding Companies"
+    },
+    "nexturl": "https://trendlyne.com/equity/1360/TATAINVEST/tata-investment-corporation-ltd/"
+  },
+  {
+    "id": "TATATECH",
+    "label": "Tata Technologies Ltd.(TATATECH)",
+    "value": "TATATECH",
+    "k": 1792699,
+    "slugname": "tata-technologies-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "TATATECH",
+    "UIcode": "TATATECH",
+    "category": "Equity",
+    "currentPrice": 714.55,
+    "day_change": 3.35,
+    "day_changeP": 0.47,
+    "day_high": 719.75,
+    "day_low": 711.0,
+    "NSEcode": "TATATECH",
+    "sectorName": "Software & Services",
+    "BSEcode": "544028",
+    "ISIN": "INE142M01025",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1792699/TATATECH/tata-technologies-ltd/"
+      ],
+      [
+        "Forecaster",
+        "https://trendlyne.com/equity/consensus-estimates/1792699/TATATECH/tata-technologies-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/forecaster/forecaster-logo-small.png"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/1792699/TATATECH/tata-technologies-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "F&O",
+        "https://trendlyne.com/futures-options/derivative/30-Sep-2025-near/1792699/TATATECH/tata-technologies-ltd/"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/1792699/TATATECH/tata-technologies-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/1792699/TATATECH/latest/tata-technologies-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/TATATECH/1792699/tata-technologies-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1792699/TATATECH/tata-technologies-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/TATATECH/1792699/tata-technologies-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/1792699/TATATECH/tata-technologies-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/1792699/TATATECH/tata-technologies-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/1792699/TATATECH/tata-technologies-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 72,
+      "industry_name": "IT Software Products"
+    },
+    "nexturl": "https://trendlyne.com/equity/1792699/TATATECH/tata-technologies-ltd/"
+  },
+  {
+    "id": "TATACHEM",
+    "label": "Tata Chemicals Ltd.(TATACHEM)",
+    "value": "TATACHEM",
+    "k": 1355,
+    "slugname": "tata-chemicals-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "TATACHEM",
+    "UIcode": "TATACHEM",
+    "category": "Equity",
+    "currentPrice": 1003.75,
+    "day_change": 21.2,
+    "day_changeP": 2.16,
+    "day_high": 1026.65,
+    "day_low": 982.95,
+    "NSEcode": "TATACHEM",
+    "sectorName": "Chemicals & Petrochemicals",
+    "BSEcode": "500770",
+    "ISIN": "INE092A01019",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1355/TATACHEM/tata-chemicals-ltd/"
+      ],
+      [
+        "Forecaster",
+        "https://trendlyne.com/equity/consensus-estimates/1355/TATACHEM/tata-chemicals-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/forecaster/forecaster-logo-small.png"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/1355/TATACHEM/tata-chemicals-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "F&O",
+        "https://trendlyne.com/futures-options/derivative/30-Sep-2025-near/1355/TATACHEM/tata-chemicals-ltd/"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/1355/TATACHEM/tata-chemicals-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/1355/TATACHEM/latest/tata-chemicals-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/TATACHEM/1355/tata-chemicals-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1355/TATACHEM/tata-chemicals-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/TATACHEM/1355/tata-chemicals-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/1355/TATACHEM/tata-chemicals-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/1355/TATACHEM/tata-chemicals-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/1355/TATACHEM/tata-chemicals-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 22,
+      "industry_name": "Commodity Chemicals"
+    },
+    "nexturl": "https://trendlyne.com/equity/1355/TATACHEM/tata-chemicals-ltd/"
+  },
+  {
+    "id": "TTML",
+    "label": "Tata Teleservices (Maharashtra) Ltd.(TTML)",
+    "value": "TTML",
+    "k": 1423,
+    "slugname": "tata-teleservices-maharashtra-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "TTML",
+    "UIcode": "TTML",
+    "category": "Equity",
+    "currentPrice": 58.43,
+    "day_change": -0.36,
+    "day_changeP": -0.61,
+    "day_high": 59.39,
+    "day_low": 58.16,
+    "NSEcode": "TTML",
+    "sectorName": "Telecom Services",
+    "BSEcode": "532371",
+    "ISIN": "INE517B01013",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1423/TTML/tata-teleservices-maharashtra-ltd/"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/1423/TTML/tata-teleservices-maharashtra-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/1423/TTML/tata-teleservices-maharashtra-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/1423/TTML/latest/tata-teleservices-maharashtra-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/TTML/1423/tata-teleservices-maharashtra-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1423/TTML/tata-teleservices-maharashtra-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/TTML/1423/tata-teleservices-maharashtra-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/1423/TTML/tata-teleservices-maharashtra-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/1423/TTML/tata-teleservices-maharashtra-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/1423/TTML/tata-teleservices-maharashtra-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 118,
+      "industry_name": "Telecom Services"
+    },
+    "nexturl": "https://trendlyne.com/equity/1423/TTML/tata-teleservices-maharashtra-ltd/"
+  },
+  {
+    "id": "tata-balanced-fund",
+    "label": "Tata Balanced Fund(tata-balanced-fund)",
+    "value": "tata-balanced-fund",
+    "k": 54031,
+    "slugname": "tata-balanced-fund-portfolio",
+    "country": "IND",
+    "defaultExchange": "",
+    "category": "Superstars",
+    "nexturl": "https://trendlyne.com/portfolio/superstar-shareholders/54031/latest/tata-balanced-fund-portfolio/",
+    "superstarId": 54031,
+    "superstarName": "Tata Balanced Fund"
+  },
+  {
+    "id": "TATA-SONS",
+    "label": "TATA Sons(TATA-SONS)",
+    "value": "TATA-SONS",
+    "k": 2214735,
+    "slugname": "tata-sons-portfolio",
+    "country": "IND",
+    "defaultExchange": "",
+    "category": "Superstars",
+    "nexturl": "https://trendlyne.com/portfolio/superstar-shareholders/2214735/latest/tata-sons-portfolio/",
+    "superstarId": 2214735,
+    "superstarName": "TATA Sons"
+  },
+  {
+    "id": "TATASTLBSL",
+    "label": "Tata Steel BSL Ltd.(TATASTLBSL)",
+    "value": "TATASTLBSL",
+    "k": 190,
+    "slugname": "tata-steel-bsl-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "TATASTLBSL",
+    "UIcode": "TATASTLBSL",
+    "category": "Not Traded",
+    "tag": "Not Traded",
+    "urls": [
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/190/TATASTLBSL/tata-steel-bsl-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/190/TATASTLBSL/latest/tata-steel-bsl-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/TATASTLBSL/190/tata-steel-bsl-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/190/TATASTLBSL/tata-steel-bsl-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/TATASTLBSL/190/tata-steel-bsl-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/190/TATASTLBSL/tata-steel-bsl-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/190/TATASTLBSL/tata-steel-bsl-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/190/TATASTLBSL/tata-steel-bsl-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 68,
+      "industry_name": "Iron & Steel/Interm.Products"
+    },
+    "nexturl": "https://trendlyne.com/equity/190/TATASTLBSL/tata-steel-bsl-ltd/"
+  },
+  {
+    "id": "TATACOFFEE",
+    "label": "Tata Coffee Ltd.(TATACOFFEE)",
+    "value": "TATACOFFEE",
+    "k": 1356,
+    "slugname": "tata-coffee-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "TATACOFFEE",
+    "UIcode": "TATACOFFEE",
+    "category": "Not Traded",
+    "tag": "Not Traded",
+    "urls": [
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/1356/TATACOFFEE/tata-coffee-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/1356/TATACOFFEE/latest/tata-coffee-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/TATACOFFEE/1356/tata-coffee-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1356/TATACOFFEE/tata-coffee-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/TATACOFFEE/1356/tata-coffee-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/1356/TATACOFFEE/tata-coffee-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/1356/TATACOFFEE/tata-coffee-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/1356/TATACOFFEE/tata-coffee-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 114,
+      "industry_name": "Tea & Coffee"
+    },
+    "nexturl": "https://trendlyne.com/equity/1356/TATACOFFEE/tata-coffee-ltd/"
+  },
+  {
+    "id": "TATASTLLP",
+    "label": "Tata Steel Long Products Ltd.(TATASTLLP)",
+    "value": "TATASTLLP",
+    "k": 1365,
+    "slugname": "tata-steel-long-products-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "TATASTLLP",
+    "UIcode": "TATASTLLP",
+    "category": "Not Traded",
+    "tag": "Not Traded",
+    "urls": [
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/1365/TATASTLLP/tata-steel-long-products-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/1365/TATASTLLP/latest/tata-steel-long-products-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/TATASTLLP/1365/tata-steel-long-products-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1365/TATASTLLP/tata-steel-long-products-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/TATASTLLP/1365/tata-steel-long-products-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/1365/TATASTLLP/tata-steel-long-products-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/1365/TATASTLLP/tata-steel-long-products-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/1365/TATASTLLP/tata-steel-long-products-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 68,
+      "industry_name": "Iron & Steel/Interm.Products"
+    },
+    "nexturl": "https://trendlyne.com/equity/1365/TATASTLLP/tata-steel-long-products-ltd/"
+  },
+  {
+    "id": "TATAMETALI",
+    "label": "Tata Metaliks Ltd.(TATAMETALI)",
+    "value": "TATAMETALI",
+    "k": 1361,
+    "slugname": "tata-metaliks-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "TATAMETALI",
+    "UIcode": "TATAMETALI",
+    "category": "Not Traded",
+    "tag": "Not Traded",
+    "urls": [
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/1361/TATAMETALI/tata-metaliks-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/1361/TATAMETALI/latest/tata-metaliks-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/TATAMETALI/1361/tata-metaliks-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1361/TATAMETALI/tata-metaliks-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/TATAMETALI/1361/tata-metaliks-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/1361/TATAMETALI/tata-metaliks-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/1361/TATAMETALI/tata-metaliks-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/1361/TATAMETALI/tata-metaliks-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 68,
+      "industry_name": "Iron & Steel/Interm.Products"
+    },
+    "nexturl": "https://trendlyne.com/equity/1361/TATAMETALI/tata-metaliks-ltd/"
+  },
+  {
+    "id": "TATAYODOGA",
+    "label": "Tayo Rolls Ltd.(TATAYODOGA)",
+    "value": "TATAYODOGA",
+    "k": 2203,
+    "slugname": "tayo-rolls-ltd",
+    "country": "IND",
+    "defaultExchange": "BSE",
+    "stock_code": null,
+    "UIcode": "TATAYODOGA",
+    "category": "Not Traded",
+    "tag": "Not Traded",
+    "urls": [
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/2203/TATAYODOGA/tayo-rolls-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/2203/TATAYODOGA/latest/tayo-rolls-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/TATAYODOGA/2203/tayo-rolls-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/2203/TATAYODOGA/tayo-rolls-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/TATAYODOGA/2203/tayo-rolls-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/2203/TATAYODOGA/tayo-rolls-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/2203/TATAYODOGA/tayo-rolls-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/2203/TATAYODOGA/tayo-rolls-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 68,
+      "industry_name": "Iron & Steel/Interm.Products"
+    },
+    "nexturl": "https://trendlyne.com/equity/2203/TATAYODOGA/tayo-rolls-ltd/"
+  },
+  {
+    "id": "INFY",
+    "label": "Infosys Ltd.(INFY)",
+    "value": "INFY",
+    "k": 630,
+    "slugname": "infosys-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "INFY",
+    "UIcode": "INFY",
+    "category": "Equity",
+    "currentPrice": 1521.7,
+    "day_change": 10.4,
+    "day_changeP": 0.69,
+    "day_high": 1526.7,
+    "day_low": 1514.0,
+    "NSEcode": "INFY",
+    "sectorName": "Software & Services",
+    "BSEcode": "500209",
+    "ISIN": "INE009A01021",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/630/INFY/infosys-ltd/"
+      ],
+      [
+        "Forecaster",
+        "https://trendlyne.com/equity/consensus-estimates/630/INFY/infosys-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/forecaster/forecaster-logo-small.png"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/630/INFY/infosys-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "F&O",
+        "https://trendlyne.com/futures-options/derivative/30-Sep-2025-near/630/INFY/infosys-ltd/"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/630/INFY/infosys-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/630/INFY/latest/infosys-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/INFY/630/infosys-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/630/INFY/infosys-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/INFY/630/infosys-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/630/INFY/infosys-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/630/INFY/infosys-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/630/INFY/infosys-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 70,
+      "industry_name": "IT Consulting & Software"
+    },
+    "nexturl": "https://trendlyne.com/equity/630/INFY/infosys-ltd/"
+  },
+  {
+    "id": "INFY",
+    "label": "Infosys Ltd - ADR(INFY)",
+    "value": "INFY",
+    "k": 1403927,
+    "slugname": "infosys-ltd-adr",
+    "country": "USA",
+    "defaultExchange": "XNYS",
+    "stock_code": "INFY",
+    "UIcode": "INFY",
+    "category": "Equity",
+    "currentPrice": 17.06,
+    "day_change": 0.14,
+    "day_changeP": 0.83,
+    "day_high": 17.08,
+    "day_low": 16.88,
+    "NSEcode": "INFY",
+    "sectorName": "Software & Services",
+    "BSEcode": null,
+    "ISIN": null,
+    "urls": [
+      [
+        "Overview",
+        "https://us.trendlyne.com/us/equity/1403927/INFY/infosys-ltd-adr/"
+      ],
+      [
+        "Forecaster",
+        "https://us.trendlyne.com/us/equity/consensus-estimates/1403927/INFY/infosys-ltd-adr/",
+        "https://cdn-static.trendlyne.com/static/img/forecaster/forecaster-logo-small.png"
+      ],
+      [
+        "Stock Report",
+        "https://us.trendlyne.com/us/equity/stock-report/1403927/INFY/infosys-ltd-adr/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "Financials",
+        "https://us.trendlyne.com/us/fundamentals/financials/1403927/INFY/infosys-ltd-adr/"
+      ],
+      [
+        "Ownership",
+        "https://us.trendlyne.com/us/equity/ownership/1403927/INFY/latest/infosys-ltd-adr/"
+      ],
+      [
+        "Technicals",
+        "https://us.trendlyne.com/us/equity/technical-analysis/INFY/1403927/infosys-ltd-adr/"
+      ],
+      [
+        "Share Price History",
+        "https://us.trendlyne.com/us/share-price/performance/1403927/INFY/infosys-ltd-adr/"
+      ],
+      [
+        "Corp. Actions",
+        "https://us.trendlyne.com/us/equity/corporate-actions/INFY/1403927/infosys-ltd-adr/"
+      ],
+      [
+        "Insider Trades",
+        "https://us.trendlyne.com/us/equity/insider-trading/all/INFY/1403927/infosys-ltd-adr/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 153,
+      "industry_name": "Information Technology Services"
+    },
+    "nexturl": "https://us.trendlyne.com/us/equity/1403927/INFY/infosys-ltd-adr/"
+  },
+  {
+    "id": "HCL-INSYS",
+    "label": "HCL Infosystems Ltd.(HCL-INSYS)",
+    "value": "HCL-INSYS",
+    "k": 530,
+    "slugname": "hcl-infosystems-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "HCL-INSYS",
+    "UIcode": "HCL-INSYS",
+    "category": "Equity",
+    "currentPrice": 15.85,
+    "day_change": 0.16,
+    "day_changeP": 1.02,
+    "day_high": 15.9,
+    "day_low": 15.66,
+    "NSEcode": "HCL-INSYS",
+    "sectorName": "Hardware Technology & Equipment",
+    "BSEcode": "500179",
+    "ISIN": "INE236A01020",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/530/HCL-INSYS/hcl-infosystems-ltd/"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/530/HCL-INSYS/hcl-infosystems-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/530/HCL-INSYS/hcl-infosystems-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/530/HCL-INSYS/latest/hcl-infosystems-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/HCL-INSYS/530/hcl-infosystems-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/530/HCL-INSYS/hcl-infosystems-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/HCL-INSYS/530/hcl-infosystems-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/530/HCL-INSYS/hcl-infosystems-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/530/HCL-INSYS/hcl-infosystems-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/530/HCL-INSYS/hcl-infosystems-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 25,
+      "industry_name": "Computer Hardware"
+    },
+    "nexturl": "https://trendlyne.com/equity/530/HCL-INSYS/hcl-infosystems-ltd/"
+  },
+  {
+    "id": "SLONE",
+    "label": "Slone Infosystems Ltd.(SLONE)",
+    "value": "SLONE",
+    "k": 2242835,
+    "slugname": "slone-infosystems-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "SLONE",
+    "UIcode": "SLONE",
+    "category": "Equity",
+    "currentPrice": 288.1,
+    "day_change": 4.15,
+    "day_changeP": 1.46,
+    "day_high": 293.95,
+    "day_low": 288.1,
+    "NSEcode": "SLONE",
+    "sectorName": "Hardware Technology & Equipment",
+    "BSEcode": null,
+    "ISIN": "INE0SMA01017",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/2242835/SLONE/slone-infosystems-ltd/"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/2242835/SLONE/slone-infosystems-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/2242835/SLONE/slone-infosystems-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/2242835/SLONE/latest/slone-infosystems-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/SLONE/2242835/slone-infosystems-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/2242835/SLONE/slone-infosystems-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/SLONE/2242835/slone-infosystems-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/2242835/SLONE/slone-infosystems-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/2242835/SLONE/slone-infosystems-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/2242835/SLONE/slone-infosystems-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 25,
+      "industry_name": "Computer Hardware"
+    },
+    "nexturl": "https://trendlyne.com/equity/2242835/SLONE/slone-infosystems-ltd/"
+  },
+  {
+    "id": "SOUTHERNIN",
+    "label": "Southern Infosys Ltd.(SOUTHERNIN)",
+    "value": "SOUTHERNIN",
+    "k": 52906,
+    "slugname": "southern-infosys-ltd",
+    "country": "IND",
+    "defaultExchange": "BSE",
+    "stock_code": null,
+    "UIcode": "SOUTHERNIN",
+    "category": "Equity",
+    "currentPrice": 34.53,
+    "day_change": -3.83,
+    "day_changeP": -9.98,
+    "day_high": 40.01,
+    "day_low": 34.53,
+    "NSEcode": null,
+    "sectorName": "Software & Services",
+    "BSEcode": "540174",
+    "ISIN": "INE298B01010",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/52906/SOUTHERNIN/southern-infosys-ltd/"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/52906/SOUTHERNIN/southern-infosys-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/52906/SOUTHERNIN/southern-infosys-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/52906/SOUTHERNIN/latest/southern-infosys-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/SOUTHERNIN/52906/southern-infosys-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/52906/SOUTHERNIN/southern-infosys-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/SOUTHERNIN/52906/southern-infosys-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/52906/SOUTHERNIN/southern-infosys-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/52906/SOUTHERNIN/southern-infosys-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/52906/SOUTHERNIN/southern-infosys-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 70,
+      "industry_name": "IT Consulting & Software"
+    },
+    "nexturl": "https://trendlyne.com/equity/52906/SOUTHERNIN/southern-infosys-ltd/"
+  },
+  {
+    "id": "DIAMOND",
+    "label": "Diamond Infosystems Ltd.(DIAMOND)",
+    "value": "DIAMOND",
+    "k": 3395,
+    "slugname": "diamond-infosystems-ltd",
+    "country": "IND",
+    "defaultExchange": "BSE",
+    "stock_code": null,
+    "UIcode": "DIAMOND",
+    "category": "Not Traded",
+    "tag": "Not Traded",
+    "urls": [
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/3395/DIAMOND/diamond-infosystems-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/3395/DIAMOND/latest/diamond-infosystems-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/DIAMOND/3395/diamond-infosystems-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/3395/DIAMOND/diamond-infosystems-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/DIAMOND/3395/diamond-infosystems-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/3395/DIAMOND/diamond-infosystems-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/3395/DIAMOND/diamond-infosystems-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/3395/DIAMOND/diamond-infosystems-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 70,
+      "industry_name": "IT Consulting & Software"
+    },
+    "nexturl": "https://trendlyne.com/equity/3395/DIAMOND/diamond-infosystems-ltd/"
+  },
+  {
+    "id": "PALSOFT",
+    "label": "Palsoft Infosystems Ltd.(PALSOFT)",
+    "value": "PALSOFT",
+    "k": 2471,
+    "slugname": "palsoft-infosystems-ltd",
+    "country": "IND",
+    "defaultExchange": "BSE",
+    "stock_code": null,
+    "UIcode": "PALSOFT",
+    "category": "Not Traded",
+    "tag": "Not Traded",
+    "urls": [
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/2471/PALSOFT/palsoft-infosystems-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/2471/PALSOFT/latest/palsoft-infosystems-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/PALSOFT/2471/palsoft-infosystems-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/2471/PALSOFT/palsoft-infosystems-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/PALSOFT/2471/palsoft-infosystems-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/2471/PALSOFT/palsoft-infosystems-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/2471/PALSOFT/palsoft-infosystems-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/2471/PALSOFT/palsoft-infosystems-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 70,
+      "industry_name": "IT Consulting & Software"
+    },
+    "nexturl": "https://trendlyne.com/equity/2471/PALSOFT/palsoft-infosystems-ltd/"
+  },
+  {
+    "id": "HDFCBANK",
+    "label": "HDFC Bank Ltd.(HDFCBANK)",
+    "value": "HDFCBANK",
+    "k": 533,
+    "slugname": "hdfc-bank-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "HDFCBANK",
+    "UIcode": "HDFCBANK",
+    "category": "Equity",
+    "currentPrice": 967.0,
+    "day_change": 0.15,
+    "day_changeP": 0.02,
+    "day_high": 974.4,
+    "day_low": 965.15,
+    "NSEcode": "HDFCBANK",
+    "sectorName": "Banking and Finance",
+    "BSEcode": "500180",
+    "ISIN": "INE040A01034",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/533/HDFCBANK/hdfc-bank-ltd/"
+      ],
+      [
+        "Forecaster",
+        "https://trendlyne.com/equity/consensus-estimates/533/HDFCBANK/hdfc-bank-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/forecaster/forecaster-logo-small.png"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/533/HDFCBANK/hdfc-bank-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "F&O",
+        "https://trendlyne.com/futures-options/derivative/30-Sep-2025-near/533/HDFCBANK/hdfc-bank-ltd/"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/533/HDFCBANK/hdfc-bank-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/533/HDFCBANK/latest/hdfc-bank-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/HDFCBANK/533/hdfc-bank-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/533/HDFCBANK/hdfc-bank-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/HDFCBANK/533/hdfc-bank-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/533/HDFCBANK/hdfc-bank-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/533/HDFCBANK/hdfc-bank-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/533/HDFCBANK/hdfc-bank-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 11,
+      "industry_name": "Banks"
+    },
+    "nexturl": "https://trendlyne.com/equity/533/HDFCBANK/hdfc-bank-ltd/"
+  },
+  {
+    "id": "HDB",
+    "label": "HDFC Bank Ltd. - ADR(HDB)",
+    "value": "HDB",
+    "k": 1403853,
+    "slugname": "hdfc-bank-ltd-adr",
+    "country": "USA",
+    "defaultExchange": "XNYS",
+    "stock_code": "HDB",
+    "UIcode": "HDB",
+    "category": "Equity",
+    "currentPrice": 35.16,
+    "day_change": 0.08,
+    "day_changeP": 0.23,
+    "day_high": 35.39,
+    "day_low": 35.06,
+    "NSEcode": "HDB",
+    "sectorName": "Banking & Finance",
+    "BSEcode": null,
+    "ISIN": null,
+    "urls": [
+      [
+        "Overview",
+        "https://us.trendlyne.com/us/equity/1403853/HDB/hdfc-bank-ltd-adr/"
+      ],
+      [
+        "Forecaster",
+        "https://us.trendlyne.com/us/equity/consensus-estimates/1403853/HDB/hdfc-bank-ltd-adr/",
+        "https://cdn-static.trendlyne.com/static/img/forecaster/forecaster-logo-small.png"
+      ],
+      [
+        "Stock Report",
+        "https://us.trendlyne.com/us/equity/stock-report/1403853/HDB/hdfc-bank-ltd-adr/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "Financials",
+        "https://us.trendlyne.com/us/fundamentals/financials/1403853/HDB/hdfc-bank-ltd-adr/"
+      ],
+      [
+        "Ownership",
+        "https://us.trendlyne.com/us/equity/ownership/1403853/HDB/latest/hdfc-bank-ltd-adr/"
+      ],
+      [
+        "Technicals",
+        "https://us.trendlyne.com/us/equity/technical-analysis/HDB/1403853/hdfc-bank-ltd-adr/"
+      ],
+      [
+        "Share Price History",
+        "https://us.trendlyne.com/us/share-price/performance/1403853/HDB/hdfc-bank-ltd-adr/"
+      ],
+      [
+        "Corp. Actions",
+        "https://us.trendlyne.com/us/equity/corporate-actions/HDB/1403853/hdfc-bank-ltd-adr/"
+      ],
+      [
+        "Insider Trades",
+        "https://us.trendlyne.com/us/equity/insider-trading/all/HDB/1403853/hdfc-bank-ltd-adr/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 177,
+      "industry_name": "Regional & Community Banks"
+    },
+    "nexturl": "https://us.trendlyne.com/us/equity/1403853/HDB/hdfc-bank-ltd-adr/"
+  },
+  {
+    "id": "HDFCLIFE",
+    "label": "HDFC Life Insurance Company Ltd.(HDFCLIFE)",
+    "value": "HDFCLIFE",
+    "k": 65394,
+    "slugname": "hdfc-life-insurance-company-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "HDFCLIFE",
+    "UIcode": "HDFCLIFE",
+    "category": "Equity",
+    "currentPrice": 765.4,
+    "day_change": -8.95,
+    "day_changeP": -1.16,
+    "day_high": 776.95,
+    "day_low": 765.0,
+    "NSEcode": "HDFCLIFE",
+    "sectorName": "Banking and Finance",
+    "BSEcode": "540777",
+    "ISIN": "INE795G01014",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/65394/HDFCLIFE/hdfc-life-insurance-company-ltd/"
+      ],
+      [
+        "Forecaster",
+        "https://trendlyne.com/equity/consensus-estimates/65394/HDFCLIFE/hdfc-life-insurance-company-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/forecaster/forecaster-logo-small.png"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/65394/HDFCLIFE/hdfc-life-insurance-company-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "F&O",
+        "https://trendlyne.com/futures-options/derivative/30-Sep-2025-near/65394/HDFCLIFE/hdfc-life-insurance-company-ltd/"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/65394/HDFCLIFE/hdfc-life-insurance-company-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/65394/HDFCLIFE/latest/hdfc-life-insurance-company-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/HDFCLIFE/65394/hdfc-life-insurance-company-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/65394/HDFCLIFE/hdfc-life-insurance-company-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/HDFCLIFE/65394/hdfc-life-insurance-company-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/65394/HDFCLIFE/hdfc-life-insurance-company-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/65394/HDFCLIFE/hdfc-life-insurance-company-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/65394/HDFCLIFE/hdfc-life-insurance-company-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 125,
+      "industry_name": "Life Insurance"
+    },
+    "nexturl": "https://trendlyne.com/equity/65394/HDFCLIFE/hdfc-life-insurance-company-ltd/"
+  },
+  {
+    "id": "HDFCAMC",
+    "label": "HDFC Asset Management Company Ltd.(HDFCAMC)",
+    "value": "HDFCAMC",
+    "k": 94155,
+    "slugname": "hdfc-asset-management-company-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "HDFCAMC",
+    "UIcode": "HDFCAMC",
+    "category": "Equity",
+    "currentPrice": 5822.0,
+    "day_change": 42.5,
+    "day_changeP": 0.74,
+    "day_high": 5839.5,
+    "day_low": 5773.0,
+    "NSEcode": "HDFCAMC",
+    "sectorName": "Banking and Finance",
+    "BSEcode": "541729",
+    "ISIN": "INE127D01025",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/94155/HDFCAMC/hdfc-asset-management-company-ltd/"
+      ],
+      [
+        "Forecaster",
+        "https://trendlyne.com/equity/consensus-estimates/94155/HDFCAMC/hdfc-asset-management-company-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/forecaster/forecaster-logo-small.png"
+      ],
+      [
+        "Stock Report",
+        "https://trendlyne.com/equity/stock-report/94155/HDFCAMC/hdfc-asset-management-company-ltd/",
+        "https://cdn-static.trendlyne.com/static/img/stock-report/stock-report-whitemode.png"
+      ],
+      [
+        "F&O",
+        "https://trendlyne.com/futures-options/derivative/30-Sep-2025-near/94155/HDFCAMC/hdfc-asset-management-company-ltd/"
+      ],
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/94155/HDFCAMC/hdfc-asset-management-company-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/94155/HDFCAMC/latest/hdfc-asset-management-company-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/HDFCAMC/94155/hdfc-asset-management-company-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/94155/HDFCAMC/hdfc-asset-management-company-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/HDFCAMC/94155/hdfc-asset-management-company-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/94155/HDFCAMC/hdfc-asset-management-company-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/94155/HDFCAMC/hdfc-asset-management-company-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/94155/HDFCAMC/hdfc-asset-management-company-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 8,
+      "industry_name": "Asset Management Cos."
+    },
+    "nexturl": "https://trendlyne.com/equity/94155/HDFCAMC/hdfc-asset-management-company-ltd/"
+  },
+  {
+    "id": "HDFCGROWTH",
+    "label": "HDFC NIFTY Growth Sectors 15 ETF(HDFCGROWTH)",
+    "value": "HDFCGROWTH",
+    "k": 1035268,
+    "slugname": "hdfc-nifty-growth-sectors-15-etf",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "HDFCGROWTH",
+    "UIcode": "HDFCGROWTH",
+    "category": "ETF",
+    "currentPrice": 125.79,
+    "day_change": 0.89,
+    "day_changeP": 0.71,
+    "day_high": 125.83,
+    "day_low": 125.15,
+    "NSEcode": "HDFCGROWTH",
+    "sectorName": "Others",
+    "BSEcode": "543607",
+    "ISIN": "INF179KC1DJ0",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1035268/HDFCGROWTH/hdfc-nifty-growth-sectors-15-etf/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1035268/HDFCGROWTH/hdfc-nifty-growth-sectors-15-etf/"
+      ]
+    ],
+    "industry": {},
+    "nexturl": "https://trendlyne.com/equity/1035268/HDFCGROWTH/hdfc-nifty-growth-sectors-15-etf/"
+  },
+  {
+    "id": "HDFCPSUBK",
+    "label": "HDFC Nifty PSU Bank ETF(HDFCPSUBK)",
+    "value": "HDFCPSUBK",
+    "k": 1891576,
+    "slugname": "hdfc-nifty-psu-bank-etf",
+    "country": "IND",
+    "defaultExchange": "BSE",
+    "stock_code": null,
+    "UIcode": "HDFCPSUBK",
+    "category": "ETF",
+    "currentPrice": 73.26,
+    "day_change": 1.58,
+    "day_changeP": 2.2,
+    "day_high": 73.26,
+    "day_low": 72.21,
+    "NSEcode": null,
+    "sectorName": "Others",
+    "BSEcode": "544110",
+    "ISIN": "INF179KC1HW4",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1891576/HDFCPSUBK/hdfc-nifty-psu-bank-etf/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1891576/HDFCPSUBK/hdfc-nifty-psu-bank-etf/"
+      ]
+    ],
+    "industry": {},
+    "nexturl": "https://trendlyne.com/equity/1891576/HDFCPSUBK/hdfc-nifty-psu-bank-etf/"
+  },
+  {
+    "id": "HDFCLOWVOL",
+    "label": "HDFC Nifty100 Low Volatility 30 ETF(HDFCLOWVOL)",
+    "value": "HDFCLOWVOL",
+    "k": 1062608,
+    "slugname": "hdfc-nifty100-low-volatility-30-etf",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "HDFCLOWVOL",
+    "UIcode": "HDFCLOWVOL",
+    "category": "ETF",
+    "currentPrice": 21.12,
+    "day_change": 0.04,
+    "day_changeP": 0.19,
+    "day_high": 21.4,
+    "day_low": 21.05,
+    "NSEcode": "HDFCLOWVOL",
+    "sectorName": "Others",
+    "BSEcode": "543627",
+    "ISIN": "INF179KC1HU8",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1062608/HDFCLOWVOL/hdfc-nifty100-low-volatility-30-etf/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1062608/HDFCLOWVOL/hdfc-nifty100-low-volatility-30-etf/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/HDFCLOWVOL/1062608/hdfc-nifty100-low-volatility-30-etf/"
+      ]
+    ],
+    "industry": {},
+    "nexturl": "https://trendlyne.com/equity/1062608/HDFCLOWVOL/hdfc-nifty100-low-volatility-30-etf/"
+  },
+  {
+    "id": "HDFCVALUE",
+    "label": "HDFC NIFTY50 Value 20 ETF(HDFCVALUE)",
+    "value": "HDFCVALUE",
+    "k": 1038199,
+    "slugname": "hdfc-nifty50-value-20-etf",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "HDFCVALUE",
+    "UIcode": "HDFCVALUE",
+    "category": "ETF",
+    "currentPrice": 135.26,
+    "day_change": 0.45,
+    "day_changeP": 0.33,
+    "day_high": 135.75,
+    "day_low": 134.81,
+    "NSEcode": "HDFCVALUE",
+    "sectorName": "Others",
+    "BSEcode": "543608",
+    "ISIN": "INF179KC1DK8",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1038199/HDFCVALUE/hdfc-nifty50-value-20-etf/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1038199/HDFCVALUE/hdfc-nifty50-value-20-etf/"
+      ]
+    ],
+    "industry": {},
+    "nexturl": "https://trendlyne.com/equity/1038199/HDFCVALUE/hdfc-nifty50-value-20-etf/"
+  },
+  {
+    "id": "HDFCQUAL",
+    "label": "HDFC NIFTY100 Quality 30 ETF(HDFCQUAL)",
+    "value": "HDFCQUAL",
+    "k": 1038198,
+    "slugname": "hdfc-nifty100-quality-30-etf",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "HDFCQUAL",
+    "UIcode": "HDFCQUAL",
+    "category": "ETF",
+    "currentPrice": 59.54,
+    "day_change": 0.25,
+    "day_changeP": 0.42,
+    "day_high": 59.71,
+    "day_low": 59.03,
+    "NSEcode": "HDFCQUAL",
+    "sectorName": "Others",
+    "BSEcode": "543605",
+    "ISIN": "INF179KC1DL6",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/1038198/HDFCQUAL/hdfc-nifty100-quality-30-etf/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/1038198/HDFCQUAL/hdfc-nifty100-quality-30-etf/"
+      ]
+    ],
+    "industry": {},
+    "nexturl": "https://trendlyne.com/equity/1038198/HDFCQUAL/hdfc-nifty100-quality-30-etf/"
+  },
+  {
+    "id": "HDFCNEXT50",
+    "label": "HDFC Nifty Next 50 ETF(HDFCNEXT50)",
+    "value": "HDFCNEXT50",
+    "k": 998773,
+    "slugname": "hdfc-nifty-next-50-etf",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "HDFCNEXT50",
+    "UIcode": "HDFCNEXT50",
+    "category": "ETF",
+    "currentPrice": 70.42,
+    "day_change": 0.22,
+    "day_changeP": 0.31,
+    "day_high": 70.55,
+    "day_low": 70.26,
+    "NSEcode": "HDFCNEXT50",
+    "sectorName": "Others",
+    "BSEcode": "543570",
+    "ISIN": "INF179KC1HS2",
+    "urls": [
+      [
+        "Overview",
+        "https://trendlyne.com/equity/998773/HDFCNEXT50/hdfc-nifty-next-50-etf/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/998773/HDFCNEXT50/hdfc-nifty-next-50-etf/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/HDFCNEXT50/998773/hdfc-nifty-next-50-etf/"
+      ]
+    ],
+    "industry": {},
+    "nexturl": "https://trendlyne.com/equity/998773/HDFCNEXT50/hdfc-nifty-next-50-etf/"
+  },
+  {
+    "id": "HDFC-GROUP",
+    "label": "HDFC Group(HDFC-GROUP)",
+    "value": "HDFC-GROUP",
+    "k": 597532,
+    "slugname": "hdfc-group-portfolio",
+    "country": "IND",
+    "defaultExchange": "",
+    "category": "Superstars",
+    "nexturl": "https://trendlyne.com/portfolio/superstar-shareholders/597532/latest/hdfc-group-portfolio/",
+    "superstarId": 597532,
+    "superstarName": "HDFC Group"
+  },
+  {
+    "id": "hdfc-mutual-fund",
+    "label": "Hdfc Mutual Fund(hdfc-mutual-fund)",
+    "value": "hdfc-mutual-fund",
+    "k": 53907,
+    "slugname": "hdfc-mutual-fund-portfolio",
+    "country": "IND",
+    "defaultExchange": "",
+    "category": "Superstars",
+    "nexturl": "https://trendlyne.com/portfolio/superstar-shareholders/53907/latest/hdfc-mutual-fund-portfolio/",
+    "superstarId": 53907,
+    "superstarName": "Hdfc Mutual Fund"
+  },
+  {
+    "id": "hdfc-small-cap-fund",
+    "label": "Hdfc Small Cap Fund(hdfc-small-cap-fund)",
+    "value": "hdfc-small-cap-fund",
+    "k": 53908,
+    "slugname": "hdfc-small-cap-fund-portfolio",
+    "country": "IND",
+    "defaultExchange": "",
+    "category": "Superstars",
+    "nexturl": "https://trendlyne.com/portfolio/superstar-shareholders/53908/latest/hdfc-small-cap-fund-portfolio/",
+    "superstarId": 53908,
+    "superstarName": "Hdfc Small Cap Fund"
+  },
+  {
+    "id": "hdfc-standard-life-insurance-company-limited",
+    "label": "Hdfc Standard Life Insurance Company Limited(hdfc-standard-life-insurance-company-limited)",
+    "value": "hdfc-standard-life-insurance-company-limited",
+    "k": 53909,
+    "slugname": "hdfc-standard-life-insurance-company-limited-portfolio",
+    "country": "IND",
+    "defaultExchange": "",
+    "category": "Superstars",
+    "nexturl": "https://trendlyne.com/portfolio/superstar-shareholders/53909/latest/hdfc-standard-life-insurance-company-limited-portfolio/",
+    "superstarId": 53909,
+    "superstarName": "Hdfc Standard Life Insurance Company Limited"
+  },
+  {
+    "id": "hdfc-trustee-company-limited",
+    "label": "Hdfc Trustee Company Limited(hdfc-trustee-company-limited)",
+    "value": "hdfc-trustee-company-limited",
+    "k": 53910,
+    "slugname": "hdfc-trustee-company-limited-portfolio",
+    "country": "IND",
+    "defaultExchange": "",
+    "category": "Superstars",
+    "nexturl": "https://trendlyne.com/portfolio/superstar-shareholders/53910/latest/hdfc-trustee-company-limited-portfolio/",
+    "superstarId": 53910,
+    "superstarName": "Hdfc Trustee Company Limited"
+  },
+  {
+    "id": "hdfc-prudence-fund",
+    "label": "Hdfc Prudence Fund(hdfc-prudence-fund)",
+    "value": "hdfc-prudence-fund",
+    "k": 53911,
+    "slugname": "hdfc-prudence-fund-portfolio",
+    "country": "IND",
+    "defaultExchange": "",
+    "category": "Superstars",
+    "nexturl": "https://trendlyne.com/portfolio/superstar-shareholders/53911/latest/hdfc-prudence-fund-portfolio/",
+    "superstarId": 53911,
+    "superstarName": "Hdfc Prudence Fund"
+  },
+  {
+    "id": "hdfc-balanced-fund",
+    "label": "Hdfc Balanced Fund(hdfc-balanced-fund)",
+    "value": "hdfc-balanced-fund",
+    "k": 53912,
+    "slugname": "hdfc-balanced-fund-portfolio",
+    "country": "IND",
+    "defaultExchange": "",
+    "category": "Superstars",
+    "nexturl": "https://trendlyne.com/portfolio/superstar-shareholders/53912/latest/hdfc-balanced-fund-portfolio/",
+    "superstarId": 53912,
+    "superstarName": "Hdfc Balanced Fund"
+  },
+  {
+    "id": "hdfc-equity-fund",
+    "label": "Hdfc Equity Fund(hdfc-equity-fund)",
+    "value": "hdfc-equity-fund",
+    "k": 53913,
+    "slugname": "hdfc-equity-fund-portfolio",
+    "country": "IND",
+    "defaultExchange": "",
+    "category": "Superstars",
+    "nexturl": "https://trendlyne.com/portfolio/superstar-shareholders/53913/latest/hdfc-equity-fund-portfolio/",
+    "superstarId": 53913,
+    "superstarName": "Hdfc Equity Fund"
+  },
+  {
+    "id": "hdfc-mid-capopportunities-fund",
+    "label": "Hdfc Mid - Capopportunities Fund(hdfc-mid-capopportunities-fund)",
+    "value": "hdfc-mid-capopportunities-fund",
+    "k": 53914,
+    "slugname": "hdfc-mid-capopportunities-fund-portfolio",
+    "country": "IND",
+    "defaultExchange": "",
+    "category": "Superstars",
+    "nexturl": "https://trendlyne.com/portfolio/superstar-shareholders/53914/latest/hdfc-mid-capopportunities-fund-portfolio/",
+    "superstarId": 53914,
+    "superstarName": "Hdfc Mid - Capopportunities Fund"
+  },
+  {
+    "id": "HDFC",
+    "label": "Housing Development Finance Corporation Ltd.(HDFC)",
+    "value": "HDFC",
+    "k": 532,
+    "slugname": "housing-development-finance-corporation-ltd",
+    "country": "IND",
+    "defaultExchange": "NSE",
+    "stock_code": "HDFC",
+    "UIcode": "HDFC",
+    "category": "Not Traded",
+    "tag": "Not Traded",
+    "urls": [
+      [
+        "Financials",
+        "https://trendlyne.com/fundamentals/financials/532/HDFC/housing-development-finance-corporation-ltd/"
+      ],
+      [
+        "Share Holding",
+        "https://trendlyne.com/equity/share-holding/532/HDFC/latest/housing-development-finance-corporation-ltd/"
+      ],
+      [
+        "Technicals",
+        "https://trendlyne.com/equity/technical-analysis/HDFC/532/housing-development-finance-corporation-ltd/"
+      ],
+      [
+        "Share Price History",
+        "https://trendlyne.com/share-price/performance/532/HDFC/housing-development-finance-corporation-ltd/"
+      ],
+      [
+        "Corp. Actions",
+        "https://trendlyne.com/equity/corporate-actions/HDFC/532/housing-development-finance-corporation-ltd/"
+      ],
+      [
+        "Delivery",
+        "https://trendlyne.com/equity/delivery-analysis/532/HDFC/housing-development-finance-corporation-ltd/"
+      ],
+      [
+        "Reports",
+        "https://trendlyne.com/research-reports/stock/532/HDFC/housing-development-finance-corporation-ltd/"
+      ],
+      [
+        "News",
+        "https://trendlyne.com/latest-news/532/HDFC/housing-development-finance-corporation-ltd/"
+      ]
+    ],
+    "industry": {
+      "industry_id": 60,
+      "industry_name": "Housing Finance "
+    },
+    "nexturl": "https://trendlyne.com/equity/532/HDFC/housing-development-finance-corporation-ltd/"
+  }
+]

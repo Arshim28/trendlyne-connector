@@ -1,0 +1,33 @@
+{
+  "timestamp": "20250918_134909",
+  "analysis_date": "2025-09-18T13:49:09.439127",
+  "companies": [
+    {
+      "symbol": "GILLETTE",
+      "name": "Gillette India32,30557.34",
+      "sector": "FMCG",
+      "metrics": {
+        "quarterly": {},
+        "annual": {},
+        "company_info": {
+          "NSEcode": "GILLETTE",
+          "BSEcode": "507815",
+          "NSENumber": "1576",
+          "BSEScriptCode": "GILLETTE",
+          "stockName": "Gillette India Ltd.",
+          "ISIN": "INE322A01010",
+          "sectorName": "FMCG",
+          "industryName": "Personal Products"
+        },
+        "latest_quarter": "Jun 2025",
+        "latest_year": "Mar 2025"
+      },
+      "summary": {
+        "latest_quarter": "Jun 2025",
+        "latest_year": "Mar 2025",
+        "quarters_available": 0,
+        "years_available": 0
+      }
+    }
+  ]
+}
